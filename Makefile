@@ -6,3 +6,6 @@ dev:
 
 lint:
 	npx eslint .
+
+simple-test:
+	node simple-testing/tests/capitalize.test.js
