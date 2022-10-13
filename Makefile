@@ -9,3 +9,6 @@ lint:
 
 simple-test:
 	node simple-testing/tests/capitalize.test.js
+
+node-assert-test:
+	node node-assert-testing/tests/capitalize.test.js
